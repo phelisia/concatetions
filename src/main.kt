@@ -12,7 +12,7 @@ fun main() {
     if(name=="chiri")
         println("thats me")
     else{
-        print("thats not me")
+        print("i dont know who that is")
     }
 
 }
